@@ -1,0 +1,2 @@
+# relative-biomass-maps
+This tool creates crop height maps of a specified agricultural plot using timeseries UAS point cloud data and calculates an estimate of the crop biomass for each dataset. The resulting relative biomass maps, biomass calculations, and daily weather information corresponding with the crop growth period are optionally provided as an easy-to-share HTML-based report. This tool is intended to facilitate consumption of UAS data by non-GIS expert farm managers.
